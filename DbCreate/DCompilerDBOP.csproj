@@ -42,8 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DCompilerDBOP.cs" />
+    <Compile Include="CreateORMOpLibDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <None Include="ScDataBaseTableOpBase.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

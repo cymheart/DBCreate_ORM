@@ -14,3 +14,12 @@ C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Release\DCompil
 C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Release\DCompilerDBOP.pdb
 C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Release\DCompilerDBOP.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Release\DCompilerDBOP.csprojResolveAssemblyReference.cache
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\obj\Release\DCompilerDBOP.csprojAssemblyReference.cache
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\obj\Release\App.Properties.Resources.resources
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\obj\Release\DCompilerDBOP.csproj.GenerateResource.cache
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\obj\Release\DCompilerDBOP.csproj.CoreCompileInputs.cache
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\obj\Release\DCompilerDBOP.dll
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\obj\Release\DCompilerDBOP.pdb
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\bin\Release\DCompilerDBOP.dll.config
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\bin\Release\DCompilerDBOP.dll
+D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\bin\Release\DCompilerDBOP.pdb

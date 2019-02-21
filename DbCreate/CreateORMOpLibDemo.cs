@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace App
+namespace ORM_DBOP_COMPLER
 {
-    static class Program
+    static class CreateORMOpLibDemo
     {
         /// <summary>
         /// 应用程序的主入口点。
@@ -21,7 +21,7 @@ namespace App
                 "server=114.55.138.73;user id = sa; password=ZYRScrljsyc060822;database=ZYRS_ProductionSystem_DataBase;Max Pool Size=50;Min Pool Size=2"
             };
 
-            DynamicCompilerDBOP.DynamicCompiler(dbnames, cons, false);
+            DCompilerDBOP.DynamicCompiler(dbnames, cons, false);
 
 
         }

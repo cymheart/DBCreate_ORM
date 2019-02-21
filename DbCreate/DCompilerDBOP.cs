@@ -7,8 +7,9 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using App;
 
-namespace App
+namespace ORM_DBOP_COMPLER
 {
     public class DCompilerDBOP
     {
@@ -57,10 +58,10 @@ namespace App
             File.SetAttributes(dbCreateDirPath, FileAttributes.Hidden);
 
    
-            string scDbTableOpBase = Properties.Resources.ScDataBaseTableOpBase;
-            string dataBaseAccess = Properties.Resources.DataBaseAccess;
-            string dbCreate = Properties.Resources.DbCreate;
-            string sqlHelper = Properties.Resources.SqlHelper;
+            string scDbTableOpBase = App.Properties.Resources.ScDataBaseTableOpBase;
+            string dataBaseAccess = App.Properties.Resources.DataBaseAccess;
+            string dbCreate = App.Properties.Resources.DbCreate;
+            string sqlHelper = App.Properties.Resources.SqlHelper;
 
             WriteStreamToFile(scDbTableOpBase, dataBaseOpDirPath + "ScDataBaseTableOpBase.cs");
             WriteStreamToFile(dataBaseAccess, dataBaseOpDirPath + "DataBaseAccess.cs");
