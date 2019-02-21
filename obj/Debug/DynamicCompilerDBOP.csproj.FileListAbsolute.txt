@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\DynamicCompilerDBOP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\DbCreate.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\DynamicCompilerDBOP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\DbCreate.exe
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\DbCreate.pdb
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\bin\Debug\DbCreate.exe.config
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\bin\Debug\DbCreate.exe
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\bin\Debug\DbCreate.pdb

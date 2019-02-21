@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\App.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\bin\Debug\DCompilerDBOP.dll.config
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\bin\Debug\DCompilerDBOP.dll
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\bin\Debug\DCompilerDBOP.pdb
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.dll
+C:\Users\Administrator\Desktop\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.pdb
+C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\bin\Debug\DCompilerDBOP.dll.config
+C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\bin\Debug\DCompilerDBOP.dll
+C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\bin\Debug\DCompilerDBOP.pdb
+C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\App.Properties.Resources.resources
+C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.dll
+C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.pdb
