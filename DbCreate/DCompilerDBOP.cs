@@ -36,8 +36,13 @@ namespace ORM_DBOP_COMPLER
 
 
             string[] files = GetFileNames(dataBaseOpDirPath);
-            foreach (string fi in files)
-                DeleteFile(fi);
+
+            if (files != null)
+            {
+                foreach (string fi in files)
+                    DeleteFile(fi);
+            }
+
 
             if (isRebulidTableModel)
             {
@@ -92,6 +97,7 @@ namespace ORM_DBOP_COMPLER
             objCompilerParameters.ReferencedAssemblies.Add("System.dll");
             objCompilerParameters.ReferencedAssemblies.Add("System.Data.dll");
             objCompilerParameters.ReferencedAssemblies.Add("System.Core.dll");
+            objCompilerParameters.ReferencedAssemblies.Add("System.Windows.Forms.dll");
             objCompilerParameters.GenerateExecutable = false;
             objCompilerParameters.GenerateInMemory = true;
 

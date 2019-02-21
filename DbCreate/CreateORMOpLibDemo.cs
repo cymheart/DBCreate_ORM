@@ -14,16 +14,14 @@ namespace ORM_DBOP_COMPLER
         static void Main()
         {
 
-            string[] dbnames = new string[] { "SaleManageSPDB", "ProductionSystemDB" };
+            string[] dbnames = new string[] { "TestDataBase1" };
             string[] cons = new string[]
             {
-                "server=114.55.138.73;user id = sa; password=ZYRScrljsyc060822;database=ZYRS_SaleManage_DataBase_SP_Test;Max Pool Size=50;Min Pool Size=2",
-                "server=114.55.138.73;user id = sa; password=ZYRScrljsyc060822;database=ZYRS_ProductionSystem_DataBase;Max Pool Size=50;Min Pool Size=2"
+                "server=.;user id = sa; password=11111111;database=TestDataBase1;Max Pool Size=50;Min Pool Size=2",
+              
             };
 
-            DCompilerDBOP.DynamicCompiler(dbnames, cons, false);
-
-
+            DCompilerDBOP.DynamicCompiler(dbnames, cons, true, null, false);
         }
     }
 }

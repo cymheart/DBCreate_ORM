@@ -13,3 +13,12 @@ C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\App.Prope
 C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.dll
 C:\Users\Administrator\Desktop\maxProject3\DbCreate\DbCreate\obj\Debug\DCompilerDBOP.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\bin\Debug\DCompilerDBOP.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Debug\DCompilerDBOP.csprojAssemblyReference.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Debug\App.Properties.Resources.resources
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Debug\DCompilerDBOP.csproj.GenerateResource.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Debug\DCompilerDBOP.csproj.CoreCompileInputs.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Debug\DCompilerDBOP.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\bin\Debug\DCompilerDBOP.dll.config
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\bin\Debug\DCompilerDBOP.dll
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Debug\DCompilerDBOP.dll

@@ -1,0 +1,11 @@
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\bin\Debug\DBCreateDemo.exe.config
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\bin\Debug\DBCreateDemo.exe
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\bin\Debug\DBCreateDemo.pdb
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\bin\Debug\DCompilerDBOP.dll
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\obj\Debug\DBCreateDemo.csprojAssemblyReference.cache
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\obj\Debug\DBCreateDemo.Properties.Resources.resources
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\obj\Debug\DBCreateDemo.csproj.GenerateResource.cache
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\obj\Debug\DBCreateDemo.csproj.CoreCompileInputs.cache
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\obj\Debug\DBCreateDemo.csproj.CopyComplete
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\obj\Debug\DBCreateDemo.exe
+D:\MyDocuments\Visual Studio 2017\Projects\DBCreateDemo\DBCreateDemo\obj\Debug\DBCreateDemo.pdb
