@@ -1,0 +1,8 @@
+D:\MyDocuments\GitHub\DBCreate_ORM\bin\dbormCompiler.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Debug\App.Properties.Resources.resources
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Debug\dbormCompiler.csproj.GenerateResource.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Debug\dbormCompiler.csproj.CoreCompileInputs.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Debug\dbormCompiler.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\bin\dbormCompiler.dll.config
+D:\MyDocuments\GitHub\DBCreate_ORM\bin\dbormCompiler.dll
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Debug\dbormCompiler.dll

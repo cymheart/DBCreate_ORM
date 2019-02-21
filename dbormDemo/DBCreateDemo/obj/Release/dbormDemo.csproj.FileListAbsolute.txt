@@ -1,0 +1,10 @@
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\bin\Release\DBCreateDemo.exe.config
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\bin\Release\DBCreateDemo.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\bin\Release\DBCreateDemo.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\obj\Release\dbormDemo.csprojAssemblyReference.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\obj\Release\DBCreateDemo.Properties.Resources.resources
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\obj\Release\dbormDemo.csproj.GenerateResource.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\obj\Release\dbormDemo.csproj.CoreCompileInputs.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\obj\Release\dbormDemo.csproj.CopyComplete
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\obj\Release\DBCreateDemo.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\DBCreateDemo\DBCreateDemo\obj\Release\DBCreateDemo.pdb

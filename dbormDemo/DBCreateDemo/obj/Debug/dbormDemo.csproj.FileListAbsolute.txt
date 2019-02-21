@@ -1,0 +1,16 @@
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\bin\Debug\DBCreateDemo.exe.config
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\bin\Debug\DBCreateDemo.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\bin\Debug\DBCreateDemo.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\bin\Debug\dborm.dll
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\bin\Debug\dborm.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\bin\Debug\dborm.exe.config
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\obj\Debug\dbormDemo.csprojAssemblyReference.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\obj\Debug\DBCreateDemo.Properties.Resources.resources
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\obj\Debug\dbormDemo.csproj.GenerateResource.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\obj\Debug\dbormDemo.csproj.CoreCompileInputs.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\obj\Debug\dbormDemo.csproj.CopyComplete
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\obj\Debug\DBCreateDemo.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\DBCreateDemo\obj\Debug\DBCreateDemo.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\bin\DBCreateDemo.exe.config
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\bin\DBCreateDemo.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormDemo\bin\DBCreateDemo.pdb
