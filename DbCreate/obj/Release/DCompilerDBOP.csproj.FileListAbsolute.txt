@@ -23,3 +23,12 @@ D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreat
 D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\bin\Release\DCompilerDBOP.dll.config
 D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\bin\Release\DCompilerDBOP.dll
 D:\MyDocuments\Visual Studio 2017\Projects\DbCreate(2017.12.11)\DbCreate\DbCreate\bin\Release\DCompilerDBOP.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\bin\Release\DCompilerDBOP.dll.config
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\bin\Release\DCompilerDBOP.dll
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\bin\Release\DCompilerDBOP.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Release\DCompilerDBOP.csprojAssemblyReference.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Release\App.Properties.Resources.resources
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Release\DCompilerDBOP.csproj.GenerateResource.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Release\DCompilerDBOP.csproj.CoreCompileInputs.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Release\DCompilerDBOP.dll
+D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Release\DCompilerDBOP.pdb
