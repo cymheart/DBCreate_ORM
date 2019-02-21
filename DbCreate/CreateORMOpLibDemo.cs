@@ -20,8 +20,7 @@ namespace ORM_DBOP_COMPLER
                 "server=.;user id = sa; password=11111111;database=TestDataBase1;Max Pool Size=50;Min Pool Size=2",
               
             };
-            int a;
-            a = 3;
+
             DCompilerDBOP.DynamicCompiler(dbnames, cons, true, null, false);
         }
     }
