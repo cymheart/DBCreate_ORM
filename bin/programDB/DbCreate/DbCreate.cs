@@ -8,8 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/// <summary>
+/// 这个文件属于dbormCompiler项目的资源文件，
+/// 在扩展修改后，需要重新把此文件拖放到dbormCompiler -> Properties -> Resources.resx 的资源文件中
+/// 替换旧的同名文件，同时重新编译dbormCompiler项目生成新的dbormCompiler.dll
+/// </summary>
+/// 
 namespace DbInfoCreate
 {
+    
     public class DbToCSharpInfo
     {
         public string type;
@@ -59,7 +66,7 @@ namespace DbInfoCreate
             }
 
             string s = CreateDataBaseStringStream(dbNames, conStrs);
-            WriteStreamToFile(s, saveScDBDirPath + "ScDB.cs");
+            WriteStreamToFile(s, saveScDBDirPath + "dborm.cs");
         }
 
         public bool DbCreateInfo(string dbName, string conStr)
@@ -78,8 +85,8 @@ namespace DbInfoCreate
             }
 
             List<string> tableNames = new List<string>();
-            string[] utableNames = QueryAllTableName("U");
-            string[] vtableNames = QueryAllTableName("V");
+            string[] utableNames = QueryAllTableName("U");   //普通表
+            string[] vtableNames = QueryAllTableName("V");   //视图
       
             tableNames.AddRange(utableNames);
             tableNames.AddRange(vtableNames);
@@ -95,7 +102,7 @@ namespace DbInfoCreate
 
  
             string s = CreateDataBaseOpStringStream(dbName, tableNames.ToArray());
-            WriteStreamToFile(s, saveScDBDirPath + "ScDB" + dbName + ".cs");
+            WriteStreamToFile(s, saveScDBDirPath + "dborm" + dbName + ".cs");
 
             con.Close();
             con.Dispose();
@@ -231,7 +238,7 @@ namespace DbInfoCreate
         {
             string usingStr = "using System.Data.SqlClient; \r\n\r\n";
             string nameSpace = "namespace " + "DataBaseOp" + "\r\n";
-            string className = "ScDB" + dbName;
+            string className = "dborm" + dbName;
 
             string classStr =
                 usingStr +
@@ -288,7 +295,7 @@ namespace DbInfoCreate
         {
             string usingStr = "using System.Collections.Generic; \r\n using System.Data.SqlClient; \r\n\r\n";
             string nameSpace = "namespace " + "DataBaseOp" + "\r\n";
-            string className = "ScDB";
+            string className = "dborm";
 
             string classStr =
                 usingStr +
@@ -305,7 +312,7 @@ namespace DbInfoCreate
             foreach (string dbName in dbNames)
             {
                 dbNewName = "DB_" + dbName;
-                dbClassName = "ScDB" + dbName;
+                dbClassName = "dborm" + dbName;
                 classStr += "        static public " + dbClassName + " " + dbNewName + "; \r\n";
             }
             classStr += "\r\n";
@@ -316,7 +323,7 @@ namespace DbInfoCreate
             for(int i=0; i<dbNames.Count(); i++)
             {
                 dbNewName = "DB_" + dbNames[i];
-                dbClassName = "ScDB" + dbNames[i];
+                dbClassName = "dborm" + dbNames[i];
 
                 classStr +=
                     "            " + dbNewName + " = new " + dbClassName + "(\"" + dbNames[i] + "\"" + "," + "\"" + conStrs[i] + "\"); \r\n" +

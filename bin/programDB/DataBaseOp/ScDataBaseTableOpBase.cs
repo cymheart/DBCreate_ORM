@@ -3,6 +3,12 @@ using System;
 using System.Data;
 using System.Threading;
 
+/// <summary>
+/// 这个文件属于dbormCompiler项目的资源文件，
+/// 在扩展修改后，需要重新把此文件拖放到dbormCompiler -> Properties -> Resources.resx 的资源文件中
+/// 替换旧的同名文件，同时重新编译dbormCompiler项目生成新的dbormCompiler.dll
+/// </summary>
+/// 
 namespace DataBaseOp
 {
     public class ScDataBaseTableOpBase : IDisposable
@@ -25,8 +31,11 @@ namespace DataBaseOp
         {
         }
 
+        /// <summary>
+        /// 销毁连接池中的这个连接
+        /// </summary>
         public virtual void Dispose()
-        {
+        {          
             con.Dispose();
             GC.SuppressFinalize(this);
         }
@@ -37,6 +46,10 @@ namespace DataBaseOp
                 ConnOpen(con);
         }
 
+
+        /// <summary>
+        /// 把连接放回连接池
+        /// </summary>
         public void Close()
         {
             con.Close();
@@ -56,6 +69,10 @@ namespace DataBaseOp
             return con.BeginTransaction();
         }
 
+
+        /// <summary>
+        /// 把连接放回连接池
+        /// </summary>
         public void EndTransaction()
         {
             Close();

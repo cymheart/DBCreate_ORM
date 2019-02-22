@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{913934EA-E830-4EB6-AB74-1BA1F4469DCB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DB_ORM</RootNamespace>
+    <RootNamespace>COMPLER_DBORM</RootNamespace>
     <AssemblyName>dborm</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

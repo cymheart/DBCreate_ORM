@@ -11,6 +11,9 @@ using App;
 
 namespace ORM_DBOP_COMPLER
 {
+    /// <summary>
+    /// 生成可以动态编译数据库映射库dborm.dll的dbormCompiler.dll库
+    /// </summary>
     public class dbormCompiler
     {
         static string[] dbNames;
@@ -139,7 +142,9 @@ namespace ORM_DBOP_COMPLER
             objCompilerParameters.GenerateInMemory = false;
             objCompilerParameters.OutputAssembly = dllPath + "dborm.dll";
 
-            Console.WriteLine(objCompilerParameters.OutputAssembly);
+
+            System.Diagnostics.Trace.WriteLine(objCompilerParameters.OutputAssembly);
+            Console.WriteLine("正在生成... " + objCompilerParameters.OutputAssembly);
 
 
             string[] codefiles = CreateCodeFileList();

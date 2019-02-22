@@ -1,0 +1,8 @@
+D:\MyDocuments\GitHub\DBCreate_ORM\bin\dborm.exe.config
+D:\MyDocuments\GitHub\DBCreate_ORM\bin\dborm.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\bin\dborm.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\compile_dborm\obj\Release\compile_dborm.csproj.CoreCompileInputs.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\compile_dborm\obj\Release\compile_dborm.csproj.CopyComplete
+D:\MyDocuments\GitHub\DBCreate_ORM\compile_dborm\obj\Release\dborm.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\compile_dborm\obj\Release\dborm.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\compile_dborm\obj\Release\compile_dborm.csprojAssemblyReference.cache

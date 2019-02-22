@@ -6,3 +6,4 @@ D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Debug\dbormCompiler.pdb
 D:\MyDocuments\GitHub\DBCreate_ORM\bin\dbormCompiler.dll.config
 D:\MyDocuments\GitHub\DBCreate_ORM\bin\dbormCompiler.dll
 D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Debug\dbormCompiler.dll
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Debug\dbormCompiler.csprojAssemblyReference.cache

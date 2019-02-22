@@ -68,16 +68,20 @@ namespace App.Properties {
         ///using System.Data.SqlClient;
         ///using System.Reflection;
         ///
+        ////// &lt;summary&gt;
+        ////// 这个文件属于dbormCompiler项目的资源文件，
+        ////// 在扩展修改后，需要重新把此文件拖放到dbormCompiler -&gt; Properties -&gt; Resources.resx 的资源文件中
+        ////// 替换旧的同名文件，同时重新编译dbormCompiler项目生成新的dbormCompiler.dll
+        ////// &lt;/summary&gt;
+        ///
         ///namespace DataBaseOp
         ///{
+        ///
         ///    public class DataBaseAccess&lt;T&gt;
         ///    {
         ///        public SqlConnection con;
         ///        public SqlTransaction trans;
-        ///        public string tbName;
-        ///        public string[] fields;
-        ///        public Dictionary&lt;string, object&gt; fieldVaildValueDict = new Dictionary&lt;string, object&gt;();
-        ///        public List&lt;DefaultCondField&gt; defCondFieldLis [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///        public  [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string DataBaseAccess {
             get {
@@ -96,18 +100,18 @@ namespace App.Properties {
         ///using System.Threading.Tasks;
         ///using System.Windows.Forms;
         ///
+        ////// &lt;summary&gt;
+        ////// 这个文件属于dbormCompiler项目的资源文件，
+        ////// 在扩展修改后，需要重新把此文件拖放到dbormCompiler -&gt; Properties -&gt; Resources.resx 的资源文件中
+        ////// 替换旧的同名文件，同时重新编译dbormCompiler项目生成新的dbormCompiler.dll
+        ////// &lt;/summary&gt;
+        ////// 
         ///namespace DbInfoCreate
         ///{
+        ///    
         ///    public class DbToCSharpInfo
         ///    {
-        ///        public string type;
-        ///        public string defaultValue;
-        ///
-        ///        public DbToCSharpInfo(string _type, string _defaultValue)
-        ///        {
-        ///            type = _type;
-        ///            defaultValue = _defaultValue;
-        ///        } [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///        public s [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string DbCreate {
             get {
@@ -121,6 +125,12 @@ namespace App.Properties {
         ///using System.Data;
         ///using System.Threading;
         ///
+        ////// &lt;summary&gt;
+        ////// 这个文件属于dbormCompiler项目的资源文件，
+        ////// 在扩展修改后，需要重新把此文件拖放到dbormCompiler -&gt; Properties -&gt; Resources.resx 的资源文件中
+        ////// 替换旧的同名文件，同时重新编译dbormCompiler项目生成新的dbormCompiler.dll
+        ////// &lt;/summary&gt;
+        ////// 
         ///namespace DataBaseOp
         ///{
         ///    public class ScDataBaseTableOpBase : IDisposable
@@ -129,13 +139,7 @@ namespace App.Properties {
         ///        public string conStr;
         ///        public SqlConnection con;
         ///
-        ///        SqlHelper sqlHelper = new SqlHelper();
-        ///
-        ///        public ScDataBaseTableOpBase (string dbName, string conStr)
-        ///        {
-        ///            this.dbName = dbName;
-        ///            this.conStr = conStr;
-        ///            con = new SqlConnection [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///        SqlHelper sqlHelper = ne [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string ScDataBaseTableOpBase {
             get {
@@ -153,6 +157,12 @@ namespace App.Properties {
         ///using System.Threading;
         ///using System.Threading.Tasks;
         ///
+        ////// &lt;summary&gt;
+        ////// 这个文件属于dbormCompiler项目的资源文件，
+        ////// 在扩展修改后，需要重新把此文件拖放到dbormCompiler -&gt; Properties -&gt; Resources.resx 的资源文件中
+        ////// 替换旧的同名文件，同时重新编译dbormCompiler项目生成新的dbormCompiler.dll
+        ////// &lt;/summary&gt;
+        ////// 
         ///namespace DataBaseOp
         ///{
         ///    public class SqlHelper
@@ -160,11 +170,7 @@ namespace App.Properties {
         ///        public SqlHelper()
         ///        {
         ///        }
-        ///
-        ///        public DataTable ExecuteDataTable(string connectionStr, string sql, object[] parameters)
-        ///        {
-        ///            SqlConnection con = new SqlConnection();
-        ///            con.ConnectionString = conn [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///        /// [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string SqlHelper {
             get {

@@ -10,9 +10,9 @@ D:\MyDocuments\GitHub\DBCreate_ORM\DbCreate\obj\Release\dbormCompiler.pdb
 D:\MyDocuments\GitHub\DBCreate_ORM\bin\dbormCompiler.dll.config
 D:\MyDocuments\GitHub\DBCreate_ORM\bin\dbormCompiler.dll
 D:\MyDocuments\GitHub\DBCreate_ORM\bin\dbormCompiler.pdb
-D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Release\dbormCompiler.csprojAssemblyReference.cache
 D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Release\App.Properties.Resources.resources
 D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Release\dbormCompiler.csproj.GenerateResource.cache
 D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Release\dbormCompiler.csproj.CoreCompileInputs.cache
 D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Release\dbormCompiler.dll
 D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Release\dbormCompiler.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\dbormCompiler\obj\Release\dbormCompiler.csprojAssemblyReference.cache

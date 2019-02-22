@@ -1,0 +1,7 @@
+D:\MyDocuments\GitHub\DBCreate_ORM\DebugDborm\bin\Debug\DebugScDB.exe.config
+D:\MyDocuments\GitHub\DBCreate_ORM\DebugDborm\bin\Debug\DebugScDB.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\DebugDborm\bin\Debug\DebugScDB.pdb
+D:\MyDocuments\GitHub\DBCreate_ORM\DebugDborm\obj\Debug\DebugDborm.csprojAssemblyReference.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DebugDborm\obj\Debug\DebugDborm.csproj.CoreCompileInputs.cache
+D:\MyDocuments\GitHub\DBCreate_ORM\DebugDborm\obj\Debug\DebugScDB.exe
+D:\MyDocuments\GitHub\DBCreate_ORM\DebugDborm\obj\Debug\DebugScDB.pdb

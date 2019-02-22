@@ -7,6 +7,12 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 这个文件属于dbormCompiler项目的资源文件，
+/// 在扩展修改后，需要重新把此文件拖放到dbormCompiler -> Properties -> Resources.resx 的资源文件中
+/// 替换旧的同名文件，同时重新编译dbormCompiler项目生成新的dbormCompiler.dll
+/// </summary>
+/// 
 namespace DataBaseOp
 {
     public class SqlHelper
@@ -15,6 +21,13 @@ namespace DataBaseOp
         {
         }
 
+        /// <summary>
+        /// 执行完后会销毁和数据库的连接
+        /// </summary>
+        /// <param name="connectionStr"></param>
+        /// <param name="sql"></param>
+        /// <param name="parameters"></param>
+        /// <returns></returns>
         public DataTable ExecuteDataTable(string connectionStr, string sql, object[] parameters)
         {
             SqlConnection con = new SqlConnection();
@@ -38,6 +51,13 @@ namespace DataBaseOp
             return dt;
         }
 
+        /// <summary>
+        /// 执行完后会销毁和数据库的连接
+        /// </summary>
+        /// <param name="connectionStr"></param>
+        /// <param name="sql"></param>
+        /// <param name="parameters"></param>
+        /// <returns></returns>
         public int ExecuteNoneQuery(string connectionStr, string sql, object[] parameters)
         {
             SqlConnection con = new SqlConnection();
@@ -55,7 +75,14 @@ namespace DataBaseOp
             return ret;
         }
 
-
+        /// <summary>
+        ///  执行完后会把数据库的连接放入连接池
+        /// </summary>
+        /// <param name="con"></param>
+        /// <param name="trans"></param>
+        /// <param name="sql"></param>
+        /// <param name="parameters"></param>
+        /// <returns></returns>
         public DataTable ExecuteDataTable(SqlConnection con, SqlTransaction trans, string sql, object[] parameters)
         {
             if (con.State != ConnectionState.Open)
@@ -79,6 +106,14 @@ namespace DataBaseOp
             return dt;
         }
 
+        /// <summary>
+        ///  执行完后会把数据库的连接放入连接池
+        /// </summary>
+        /// <param name="con"></param>
+        /// <param name="trans"></param>
+        /// <param name="sql"></param>
+        /// <param name="parameters"></param>
+        /// <returns></returns>
         public int ExecuteNoneQuery(SqlConnection con, SqlTransaction trans, string sql, object[] parameters)
         {
             if (con.State != ConnectionState.Open)
